@@ -1,0 +1,37 @@
+.mission-card {
+  border: 1px solid gray;
+  border-radius: 6px;
+  display: inline-block;
+  font-size: medium;
+  height: 150px;
+  margin: 5px;
+  width: 250px;
+}
+
+.mission-card:hover {
+  background-color: rgb(31, 30, 30, 0.5);
+}
+
+.mission-name {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+hr {
+  background-color: gray;
+  border-color: gray;
+  color: gray;
+}
+
+.mission-info {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  padding-top: 25px;
+}
+
+.mission-info p {
+  font-size: 10px;
+  margin: 0 5px;
+}
+

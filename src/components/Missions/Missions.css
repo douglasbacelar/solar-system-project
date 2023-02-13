@@ -1,0 +1,44 @@
+.mission-container {
+  background-color: rgba(134, 134, 129, 0.034);
+  border-radius: 30px;
+  color: rgb(246, 245, 241);
+  height: 500px;
+  margin: auto;
+  overflow-y: scroll;
+  padding: 50px;
+}
+
+.mission-container::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+}
+
+.mission-container::-webkit-scrollbar-thumb {
+  background: #e1e1e1;
+}
+
+.mission-container::-webkit-scrollbar-thumb:hover {
+  background: white;
+}
+
+.mission-container::-webkit-scrollbar-thumb:active {
+  background: gray;
+}
+
+.mission-container::-webkit-scrollbar-track {
+  background: #666;
+  border-radius: 50px;
+}
+
+.mission-container::-webkit-scrollbar-track:hover {
+  background: #666;
+}
+
+.mission-container::-webkit-scrollbar-track:active {
+  background: #cdd2cd;
+}
+
+.mission-container::-webkit-scrollbar-corner {
+  background: transparent;
+}
+

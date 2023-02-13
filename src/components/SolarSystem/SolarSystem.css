@@ -1,0 +1,11 @@
+.planets {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.solar-system {
+  color: rgb(246, 245, 241);
+  text-align: center;
+}

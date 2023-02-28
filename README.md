@@ -8,7 +8,7 @@ Application in React with creation of class components and passing props. This a
 
 This was a project carried out jointly with Trybe, a developer professionalizing company.
 
-> Deploy: 
+> Deploy: https://solar-system-project-five.vercel.app/
 
 ## 🌐 Required Skills:
 

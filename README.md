@@ -46,4 +46,4 @@ npm install
 ## 💻 Author
 
 Desenvolvido por
-<a href=“https://www.linkedin.com/in/douglasbacelar/“>Douglas Bacelar</a>
+<a href=“https://www.linkedin.com/in/douglas-bacelar-82b722149“> Douglas Bacelar </a>
